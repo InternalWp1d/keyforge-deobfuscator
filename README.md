@@ -17,8 +17,6 @@ to deobfuscate any script, extract dispatch from kb42, read the handler for each
 
 dispatch is nested ifs with numbers, stack a equals const b is loadk, stack a equals empty table is newtable, stack a in brackets const b equals stack c is setk
 
-the output folder has clean versions for all seven, 277 is a state machine, 278 timer, 279 rpg, 280 roblox, 281 score, 282 hello world
-
 automation is hard, each has its own opcodes and everything is renamed, easier to do it manually with lune, extracting constants and instruction dumps
 
 if something is unclear, paste this guide into any ai and it will help you figure it out
