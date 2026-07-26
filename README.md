@@ -1,6 +1,6 @@
 # keyforge-deobfuscator
 ts a file that came from discord.gg/tbjBPTRnph. static deobfuscator for keyforge obfuscator, output is not runnable
-
+keyforge obfuscation breakdown guide, not a full deobfuscator!!!!
 this is a guide for breaking down forgevm
 
 using sample 277
