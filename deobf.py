@@ -2,6 +2,7 @@
 # by @wp1d, @virelesss
 # ts a file that came from discord.gg/tbjBPTRnph
 # this script uses roblox_stubs.lua to emulate the roblox env
+# keyforge obfuscation breakdown guide, not a full deobfuscator!!!!
 a='setk'
 Z='call'
 Y='ret'
